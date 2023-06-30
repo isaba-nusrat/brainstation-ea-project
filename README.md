@@ -1,7 +1,7 @@
 # Industry Hackathon Group Project for EA Sports
 # 🦾 APEX LEGENDS BOT BRAWL 🎮
 
-Welcome to Apex Legends Bot Brawl, a feature proposed by own team to EA Sports for enhancing interaction between gamers. Players can create their digital twin and train their bot with two features: video and communicative behaviour. We won the hackathon for this project.
+Welcome to Apex Legends Bot Brawl, a feature proposed by own team to EA Sports for enhancing interaction between gamers. Players can create their digital twin and train their bot with two features: video and communicative behaviour. **We won the hackathon for this project**.
 
 <img width="1440" alt="bot-brawl-homepage-ss" src="https://github.com/stuckinsnow/brainstation-ea-project/assets/79944634/7b5c5d06-eaef-49ec-a318-d7e74594f55e">
 
